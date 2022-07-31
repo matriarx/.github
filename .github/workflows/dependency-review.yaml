@@ -3,7 +3,8 @@ on: [pull_request]
 permissions:
   contents: read
 jobs:
-  depencencies:
+  review:
+    name: Review
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
