@@ -1,4 +1,4 @@
-name: Dependency Analysis
+name: Dependency Review
 on: [pull_request]
 permissions:
   contents: read
@@ -8,5 +8,5 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Analyze
+      - name: Review
         uses: actions/dependency-review-action@v2
