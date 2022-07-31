@@ -1,0 +1,12 @@
+name: Dependency Analysis
+on: [pull_request]
+permissions:
+  contents: read
+jobs:
+  depencencies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Analyze
+        uses: actions/dependency-review-action@v2
