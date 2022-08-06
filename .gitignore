@@ -7,3 +7,5 @@ Thumbs.db
 # ide
 *.swp
 *.save*
+.vscode
+.idea
