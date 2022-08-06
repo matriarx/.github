@@ -1,1 +1,7 @@
-github: [miamatriarx, matriarx]
+---
+github:
+  - miamatriarx
+  - matriarx
+patreon: miamatriarx
+custom:
+  - "https://bunq.me/miamatriarx"
