@@ -12,11 +12,9 @@
   </p>
 
   <p>
-    <a href="https://discord.gg/matriarx">🧚🏻‍♀️✨</a>
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Join+the+community&color=738adb&logoColor=ffffff" title="Join the community" alt="Join the community"/>
     </a>
-    <a href="https://discord.gg/matriarx">✨💕</a>
   </p>
 </div>
 
