@@ -187,7 +187,7 @@
   </a>
 </p>
 
-# 🧚🏻‍♀️✨ Support 🧚🏻‍♀️🦄
+# 🧚🏻‍♀️✨ Support ✨💕
 
 🧚🏻‍♀️✨ Interested in earning some fantastic rewards? 🦄🔮
 
