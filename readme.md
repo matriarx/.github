@@ -1,6 +1,49 @@
-<h1 align="center">🧚🏻‍♀️✨ Mia Matriarx ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
+<h1 align="center">🧚🏻‍♀️✨ .github ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
 
 <div align="center">
+  <p>🔮 Default documentation & community health files for all repositories 🦄</p>
+
+  <p><i>🧚🏻‍♀️✨ Created with sprinkles of ✨ and oodles of 💕</i></p>
+
+  <p>
+    <a href="https://github.com/miamatriarx">
+      <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
+    </a>
+  </p>
+
+  <p>
+    <a href="https://discord.gg/matriarx">🧚🏻‍♀️✨</a>
+    <a href="https://discord.gg/matriarx">
+      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Join+the+community&color=738adb&logoColor=ffffff" title="Join the community" alt="Join the community"/>
+    </a>
+    <a href="https://discord.gg/matriarx">✨💕</a>
+  </p>
+</div>
+
+## 🧚🏻‍♀️✨ Documentation 📚🔮
+
+🪄✨ [Project](https://github.com/matriarx/.github/projects)\
+🪄✨ [Discussions](https://github.com/matriarx/.github/discussions)\
+🪄✨ [Wiki](https://github.com/matriarx/.github/wiki)\
+🪄✨ [Code of Conduct](https://github.com/matriarx/.github/blob/main/docs/code_of_conduct.md)\
+🪄✨ [Contributing](https://github.com/matriarx/.github/blob/main/docs/contributing.md)\
+🪄✨ [Security](https://github.com/matriarx/.github/blob/main/docs/security.md)\
+🪄✨ [Contact](https://github.com/matriarx/.github/blob/main/docs/support.md)\
+🪄✨ [License](https://github.com/matriarx/.github/blob/main/license)
+
+## 🧚🏻‍♀️✨ Support 🧚🏻‍♀️🦄
+
+🧚🏻‍♀️✨ Interested in earning some fantastic rewards? 🦄🔮
+
+You can have a look at my [GitHub](https://github.com/sponsors/miamatriarx) or [Patreon](https://patreon.com/miamatriarx) pages, there are some fantastic rewards you can earn by supporting me ✨🧚🏻‍♀️
+
+I build free and open source software which means that instead of spending my invaluable time making money, I give it away for free to make cool things for people.  It brings me joy to create things that add value to people's life and I would like to be able to continue doing so, but I'm dependent on people who support me.
+
+At the cost of a coffee you can help make the world a better place ✨💕
+
+<div align="center">
+  <h1>🧚🏻‍♀️✨ Mia Matriarx ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
+
   <p>✨🧚🏻‍♀️👩🏻‍🎨👩🏻‍💻👩🏻‍🔬👸🏻🦄🔮🏰💕</p>
 
   <p>🏳️‍🌈🏳️‍⚧️</p>
@@ -53,7 +96,7 @@
 
   <p>
     <a href="https://github.com/miamatriarx">
-      <img src="https://contrib.rocks/image?repo=miamatriarx/miamatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
+      <img src="https://contrib.rocks/image?repo=matriarx/.githubmatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
     </a>
   </p>
 
@@ -169,13 +212,3 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
   </a>
 </p>
-
-# 🧚🏻‍♀️✨ Support 🧚🏻‍♀️🦄
-
-🧚🏻‍♀️✨ Interested in earning some fantastic rewards? 🦄🔮
-
-You can have a look at my [GitHub](https://github.com/sponsors/miamatriarx) or [Patreon](https://patreon.com/miamatriarx) pages, there are some fantastic rewards you can earn by supporting me ✨🧚🏻‍♀️
-
-I build free and open source software which means that instead of spending my invaluable time making money, I give it away for free to build cool things for people.  It brings me joy to make things that add value to people's life and I would like to be able to continue doing so, but I'm dependent on people who support me.
-
-At the cost of a coffee you can help make the world a better place ✨💕
