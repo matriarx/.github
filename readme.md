@@ -6,33 +6,148 @@
   <p><i>🧚🏻‍♀️✨ Created with sprinkles of ✨ and oodles of 💕</i></p>
 
   <p>
-    <a href="https://github.com/miamatriarx">
+    <a href="https://github.com/matriarx">
       <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
     </a>
   </p>
 
   <p>
+    <a href="https://github.com/matriarx/.github">
+      <img src="https://img.shields.io/github/forks/matriarx/.github?logo=github&label=Forks&color=c04080&logoColor=ffffff" title="Forks" alt="Forks"/>
+    </a>
+    <a href="https://github.com/matriarx/.github">
+      <img src="https://img.shields.io/github/stars/matriarx/.github?logo=github&label=Stars&color=c04080&logoColor=ffffff" title="Stars" alt="Stars"/>
+    </a>
+    <a href="https://github.com/matriarx/.github">
+      <img src="https://img.shields.io/github/watchers/matriarx/.github?logo=github&label=Watchers&color=c04080&logoColor=ffffff" title="Watchers" alt="Watchers"/>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/matriarx/.github">
+      <img src="https://img.shields.io/github/v/release/matriarx/.github.svg?logo=github&label=Release&include_prereleases&sort=semver&display_name=tag&color=c04080&logoColor=ffffff" title="Release" alt="Release">
+    </a>
+    <a href="https://github.com/matriarx/.github/actions">
+      <img src="https://img.shields.io/github/release-date/matriarx/.github?logo=github&label=Release+Date&color=c04080&logoColor=ffffff" title="Release Date" alt="Release Date"/>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://discord.gg/matriarx">🧚🏻‍♀️✨</a>
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Join+the+community&color=738adb&logoColor=ffffff" title="Join the community" alt="Join the community"/>
     </a>
+    <a href="https://discord.gg/matriarx">✨💕</a>
   </p>
 </div>
 
+## 🧚🏻‍♀️✨ Repository 📚🚀
+
+<p>
+  <a href="https://github.com/matriarx/.github">
+    <img src="https://img.shields.io/github/contributors/matriarx/.github?logo=github&label=Contributors&color=c04080&logoColor=ffffff" title="Contributors" alt="Contributors"/>
+  </a>
+  <a href="https://github.com/matriarx/.github">
+  <img src="https://img.shields.io/github/last-commit/matriarx/.github?logo=github&label=Latest+Commit&color=c04080&logoColor=ffffff" title="Latest Commit" alt="Latest Commit"/>
+  </a>
+  <a href="https://github.com/matriarx/.github">
+    <img src="https://img.shields.io/github/languages/count/matriarx/.github?logo=github&label=Languages&color=c04080&logoColor=ffffff" title="Languages" alt="Languages"/>
+  </a>
+  <a href="https://github.com/matriarx/.github">
+    <img src="https://img.shields.io/github/languages/top/matriarx/.github?logo=github&color=c04080&logoColor=ffffff" title="Top Language" alt="Top Language"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/matriarx/.github">
+    <img src="https://img.shields.io/github/commits-since/matriarx/.github/latest?logo=github&label=Release+Commits&sort=semver&color=c04080&logoColor=ffffff" title="Release Commits" alt="Release Commits"/>
+  </a>
+  <a href="https://github.com/matriarx/.github">
+    <img src="https://img.shields.io/github/commits-since/matriarx/.github/latest?logo=github&label=Prerelease+Commits&include_prereleases&sort=semver&color=c04080&logoColor=ffffff" title="Prerelease Commits" alt="Release Commits"/>
+  </a>
+  <a href="https://github.com/matriarx/.github">
+    <img src="https://img.shields.io/github/commits-since/matriarx/.github/latest?logo=github&label=Tag+Commits&sort=semver&color=c04080&logoColor=ffffff" title="Tag Commits" alt="Tag Commits"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/matriarx/.github">
+    <img src="https://img.shields.io/github/commit-activity/w/matriarx/.github?logo=github&label=Commits&color=c04080&logoColor=ffffff" title="Commits" alt="Commits"/>
+  </a>
+  <a href="https://github.com/matriarx/.github">
+    <img src="https://img.shields.io/github/commit-activity/m/matriarx/.github?logo=github&label=Commits&color=c04080&logoColor=ffffff" title="Commits" alt="Commits"/>
+  </a>
+  <a href="https://github.com/matriarx/.github">
+    <img src="https://img.shields.io/github/commit-activity/y/matriarx/.github?logo=github&label=Commits&color=c04080&logoColor=ffffff" title="Commits" alt="Commits"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/matriarx/.github">
+    <img src="https://img.shields.io/github/downloads/matriarx/.github/total?logo=github&label=Downloads&color=c04080&logoColor=ffffff" title="Downloads" alt="Downloads"/>
+  </a>
+  <a href="https://github.com/matriarx/.github">
+    <img src="https://img.shields.io/github/directory-file-count/matriarx/.github?logo=github&label=Files&color=c04080&logoColor=ffffff" title="Files" alt="Files"/>
+  </a>
+  <a href="https://github.com/matriarx/.github">
+    <img src="https://img.shields.io/github/repo-size/matriarx/.github?logo=github&label=Size&color=c04080&logoColor=ffffff" title="Size" alt="Size"/>
+  </a>
+  <a href="https://github.com/matriarx/.github">
+    <img src="https://img.shields.io/github/languages/code-size/matriarx/.github?logo=github&label=Code+Size&color=c04080&logoColor=ffffff" title="Code Size" alt="Code Size"/>
+  </a>
+</p>
+
+## 🧚🏻‍♀️✨ Project 📚🎨
+
+<p>
+  <a href="https://github.com/matriarx/.github/discussions">
+    <img src="https://img.shields.io/github/discussions/matriarx/.github?logo=github&label=Discussions&color=c04080&logoColor=ffffff" title="Discussions" alt="Discussions"/>
+  </a>
+  <a href="https://github.com/matriarx/.github/milestones">
+    <img src="https://img.shields.io/github/milestones/all/matriarx/.github?logo=github&label=Milestones&color=c04080&logoColor=ffffff" title="Milestones" alt="Milestones"/>
+  </a>
+  <a href="https://github.com/matriarx/.github/issues">
+    <img src="https://img.shields.io/github/issues-raw/matriarx/.github?logo=github&label=Issues&color=c04080&logoColor=ffffff" title="Issues" alt="Issues"/>
+  </a>
+  <a href="https://github.com/matriarx/.github/pulls">
+    <img src="https://img.shields.io/github/issues-pr-raw/matriarx/.github?logo=github&label=Pull+Requests&color=c04080&logoColor=ffffff" title="Pull Requests" alt="Pull Requests"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/matriarx/.github/milestones">
+    <img src="https://img.shields.io/github/milestones/closed/matriarx/.github?logo=github&label=Closed+Milestones&color=40a0a0&logoColor=ffffff" title="Closed Milestones" alt="Closed Milestones"/>
+  </a>
+  <a href="https://github.com/matriarx/.github/issues">
+    <img src="https://img.shields.io/github/issues-closed-raw/matriarx/.github?logo=github&label=Closed+Issues&color=40a0a0&logoColor=ffffff" title="Closed Issues" alt="Closed Issues"/>
+  </a>
+  <a href="https://github.com/matriarx/.github/pulls">
+    <img src="https://img.shields.io/github/issues-pr-closed-raw/matriarx/.github?logo=github&label=Closed+Pull+Requests&color=40a0a0&logoColor=ffffff" title="Closed Pull Requests" alt="Closed Pull Requests"/>
+  </a>
+</p>
+
 ## 🧚🏻‍♀️✨ Documentation 📚🔮
 
+🪄✨ [Project](https://github.com/matriarx/.github/projects)\
+🪄✨ [Discussions](https://github.com/matriarx/.github/discussions)\
+🪄✨ [Wiki](https://github.com/matriarx/.github/wiki)\
 🪄✨ [Code of Conduct](https://github.com/matriarx/.github/blob/main/docs/code_of_conduct.md)\
-🪄✨ [Support](https://github.com/matriarx/.github/blob/main/docs/support.md)\
 🪄✨ [Contributing](https://github.com/matriarx/.github/blob/main/docs/contributing.md)\
 🪄✨ [Security](https://github.com/matriarx/.github/blob/main/docs/security.md)\
-🪄✨ [Bug Report Template](https://github.com/matriarx/.github/blob/main/.github/ISSUE_TEMPLATE/bug.md)\
-🪄✨ [Feature Request Template](https://github.com/matriarx/.github/blob/main/.github/ISSUE_TEMPLATE/feature.md)\
-🪄✨ [Improvement Suggestion Template](https://github.com/matriarx/.github/blob/main/.github/ISSUE_TEMPLATE/improvement.md)\
-🪄✨ [Default Issue Template](https://github.com/matriarx/.github/blob/main/.github/ISSUE_TEMPLATE/other.md)\
-🪄✨ [Pull Request Template](https://github.com/matriarx/.github/blob/main/.github/pull_request_template.md)\
-🪄✨ [Funding](https://github.com/matriarx/.github/blob/main/.github/funding.yaml)\
+🪄✨ [Contact](https://github.com/matriarx/.github/blob/main/docs/support.md)\
 🪄✨ [License](https://github.com/matriarx/.github/blob/main/license)
 
-## 🧚🏻‍♀️✨ License ✨🚀
+## 🧚🏻‍♀️✨ Support 🧚🏻‍♀️🦄
+
+🧚🏻‍♀️✨ Interested in earning some fantastic rewards? 🦄🔮
+
+You can have a look at my [GitHub](https://github.com/sponsors/miamatriarx) or [Patreon](https://patreon.com/miamatriarx) pages, there are some fantastic rewards you can earn by supporting me ✨🧚🏻‍♀️
+
+I build free and open source software which means that instead of spending my invaluable time making money, I give it away for free to make cool things for people.  It brings me joy to create things that add value to people's life and I would like to be able to continue doing so, but I'm dependent on people who support me.
+
+At the cost of a coffee you can help make the world a better place ✨💕
+
+## 🧚🏻‍♀️✨ License ✨💕
 
 <p>
   <a href="https://github.com/matriarx/.github/blob/main/license">
@@ -86,14 +201,16 @@
   </p>
 
   <p>
+    <a href="https://discord.gg/matriarx">🧚🏻‍♀️✨</a>
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Join+the+community&color=738adb&logoColor=ffffff" title="Join the community" alt="Join the community"/>
     </a>
+    <a href="https://discord.gg/matriarx">✨💕</a>
   </p>
 
   <p>
     <a href="https://github.com/miamatriarx">
-      <img src="https://contrib.rocks/image?repo=miamatriarx/miamatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
+      <img src="https://contrib.rocks/image?repo=matriarx/.githubmatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
     </a>
   </p>
 
