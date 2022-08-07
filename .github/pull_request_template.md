@@ -18,7 +18,7 @@ Provide detail of the changes that were made.
 
 If it contains breaking changes then provide a summary of the changes and the motivation and context, why it was necessary to make such changes and what it breaks.
 
-## 🧚🏻‍♀️✨ Checklist ✔️👻
+## 🧚🏻‍♀️✨ Checklist 👻💯
 
 🪄✨ [ ] I have thoroughly tested, double checked, tripple checked and performed a self-review of my code.\
 🪄✨ [ ] I have styled and formatted my code to be consistent with the existing codebase.\
