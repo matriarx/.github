@@ -93,7 +93,7 @@
   <h2>🧚🏻‍♀️✨ Support ✨💕</h2>
 
   <p>
-    <a href="https://github.com/sponsors/miamatriarx">
+    <a href="https://github.com/sponsors/matriarx">
       <img src="https://img.shields.io/badge/GitHub-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
     </a>
     <a href="https://patreon.com/miamatriarx">
@@ -107,7 +107,7 @@
     </a>
   </p>
 
-  <p>🧚🏻‍♀️✨ Have a look at the fantastic rewards you can earn for supporting me 🔮✨</p>
+  <p>🧚🏻‍♀️✨ Have a look at the fantastic <a href="https://github.com/sponsors/matriarx">rewards</a> you can earn for supporting me 🔮✨</p>
 </div>
 
 <p>
@@ -191,7 +191,7 @@
 
 🧚🏻‍♀️✨ Interested in earning some fantastic rewards? 🦄🔮
 
-Have a look at my [GitHub](https://github.com/sponsors/miamatriarx) or [Patreon](https://patreon.com/miamatriarx) pages, there are some fantastic rewards you can earn by supporting me ✨🧚🏻‍♀️
+Have a look at my [GitHub](https://github.com/sponsors/matriarx) or [Patreon](https://patreon.com/miamatriarx) pages, there are some fantastic <a href="https://github.com/sponsors/matriarx">rewards</a> you can earn by supporting me ✨🧚🏻‍♀️
 
 I create free and open source software published under MIT. It brings me joy to make things that add value to people's life and I would like to be able to continue doing so 🦄✨
 
