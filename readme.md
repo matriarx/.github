@@ -136,21 +136,21 @@ At the cost of a coffee you can help make the world a better place ✨💕
   <h2>🧚🏻‍♀️✨ Support ✨💕</h2>
 
   <p>
+    <a href="https://github.com/sponsors/miamatriarx">
+      <img src="https://img.shields.io/badge/GitHub-c04080?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
+    </a>
     <a href="https://github.com/sponsors/matriarx">
       <img src="https://img.shields.io/badge/GitHub-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
     </a>
     <a href="https://patreon.com/miamatriarx">
       <img src="https://img.shields.io/badge/Patreon-f96854?logo=patreon&logoColor=ffffff" title="Patreon" alt="Patreon"/>
     </a>
-  </p>
-
-  <p>
     <a href="https://bunq.me/miamatriarx">
       <img src="https://img.shields.io/badge/Donate-40a0a0?logo=bunq&logoColor=ffffff" title="Donate" alt="Donate"/>
     </a>
   </p>
 
-  <p>🧚🏻‍♀️✨ Have a look at the fantastic <a href="https://github.com/sponsors/matriarx">rewards</a> you can earn for supporting me 🔮✨</p>
+  <p>🧚🏻‍♀️✨ Have a look at the fantastic <a href="https://github.com/sponsors/matriarx">rewards</a> 🔮✨</p>
 </div>
 
 <p>
